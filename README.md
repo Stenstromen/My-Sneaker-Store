@@ -21,7 +21,7 @@ git clone https://github.com/Stenstromen/My-Sneaker-Store.git
 ## Build
 
 ```
-docker build -t mysneakerstore .
+docker build -t mysneakerstore My-Sneaker-Store/.
 ```
 
 ## Run
