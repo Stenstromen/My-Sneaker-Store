@@ -6,7 +6,7 @@ Dockerfile for idahagerts "My-Sneaker-Store" React project"
 
 ## Demo
 
-Demo available at stenstromen/mysneakerstore. (linux/arm64)
+Demo available at Stenstromen/mysneakerstore. (linux/arm64)
 
 ```
 docker run -d --rm -p 80:80 stenstromen/mysneakerstore
