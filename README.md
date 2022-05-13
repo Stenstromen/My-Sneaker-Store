@@ -1,6 +1,7 @@
 # My-Sneaker-Store
 
 Dockerfile for idahagerts "My-Sneaker-Store" React project"
+
 [github.com/idahagerth](https://github.com/idahagerth/My-Sneaker-Store)
 
 ## Demo
