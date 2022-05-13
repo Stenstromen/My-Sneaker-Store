@@ -12,6 +12,12 @@ Demo available at stenstromen/mysneakerstore. (linux/arm64)
 docker run -d --rm -p 80:80 stenstromen/mysneakerstore
 ```
 
+## Clone
+
+```
+git clone https://github.com/Stenstromen/My-Sneaker-Store.git
+```
+
 ## Build
 
 ```
